@@ -1,0 +1,4 @@
+interface:
+  display_name: "NotebookLM 影片配音"
+  short_description: "將 NotebookLM 原聲配入既有影片或 3D 動畫並驗證"
+  default_prompt: "Use $notebooklm-video-voiceover to add NotebookLM narration to my existing video and verify the finished file."

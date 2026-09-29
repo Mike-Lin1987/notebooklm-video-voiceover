@@ -1,0 +1,7 @@
+{
+  "timing_basis": "estimated",
+  "note": "依完成音訊改寫；未取得可靠時間證據時只宣稱章節配畫。",
+  "chapters": [
+    {"start_seconds": 0, "end_seconds": 10, "scene": "開場", "timing_basis": "estimated"}
+  ]
+}
